@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\7IN5D4-ATAKAN-YAGAN.props" />
+</Project>

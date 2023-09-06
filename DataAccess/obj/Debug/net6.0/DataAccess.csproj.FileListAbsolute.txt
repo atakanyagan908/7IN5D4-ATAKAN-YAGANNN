@@ -1,0 +1,17 @@
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\dell\source\repos\7IN5D4-ATAKAN-YAGAN\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
